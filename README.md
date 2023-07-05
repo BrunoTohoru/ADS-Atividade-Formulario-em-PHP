@@ -4,3 +4,6 @@
  * XAMPP
  * VSCode
  * MySQL
+
+ Framework utilizado:
+ * Bootstrap 5
